@@ -1,0 +1,32 @@
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\bin\Debug\Penjualan Baru.exe.config
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\bin\Debug\Penjualan Baru.exe
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\bin\Debug\Penjualan Baru.pdb
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\bin\Debug\Penjualan Baru.xml
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.vbprojAssemblyReference.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormBarang.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.Resources.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.vbproj.GenerateResource.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.vbproj.CoreCompileInputs.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.exe
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.xml
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.pdb
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormLogin.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormCariBarang.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormTransaksi.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormUtama.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\bin\Debug\Penjualan Baru.exe.config
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\bin\Debug\Penjualan Baru.exe
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\bin\Debug\Penjualan Baru.pdb
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\bin\Debug\Penjualan Baru.xml
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan Baru.vbprojAssemblyReference.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan_Baru.FormBarang.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan_Baru.FormCariBarang.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan_Baru.FormLogin.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan_Baru.FormTransaksi.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan_Baru.FormUtama.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan_Baru.Resources.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan Baru.vbproj.GenerateResource.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan Baru.vbproj.CoreCompileInputs.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan Baru.exe
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan Baru.xml
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\19.02.0486\obj\Debug\Penjualan Baru.pdb

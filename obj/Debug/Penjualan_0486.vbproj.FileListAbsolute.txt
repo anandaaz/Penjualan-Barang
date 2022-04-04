@@ -1,0 +1,11 @@
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_0486.vbprojAssemblyReference.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormBarang.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormCariBarang.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormLogin.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.FormTransaksi.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_Baru.Resources.resources
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_0486.vbproj.GenerateResource.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan_0486.vbproj.CoreCompileInputs.cache
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.exe
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.xml
+D:\SEMESTER IV\PEMROGRAMAN BASIS DATA\Penjualan Baru\obj\Debug\Penjualan Baru.pdb
